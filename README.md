@@ -57,7 +57,7 @@ Most of my repositories are private to protect client IP, however I've selected 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marksk1&show_icons=true&locale=en&layout=compact" alt="marksk1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marksk1&show_icons=true&locale=en" alt="marksk1" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marksk1&show_icons=true&locale=en" alt="marksk1" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marksk1&" alt="marksk1" /></p>
 
