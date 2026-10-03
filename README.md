@@ -1,11 +1,12 @@
-Hi, I'm Mark 👋
+<h2>Hi, I'm Mark 👋</h2>
 
-<h3 align="center">Building software, data systems, and AI agents to empower people and organisations</h3>
+<h3 align="left">I build software, data systems, and AI agents to empower people and organisations</h3>
 
-A friendly and enthusiastic Software and Data Engineering consultant (UK Ltd)
+I'm a Software and Data Engineering consultant from the United Kingdom.
 
-🗺️ Location - Greater Bristol Area, UK
-💻 Working - Hybrid & Remote
+- 🗺️ Location - Greater Bristol Area, UK
+
+- 💻 Working - Hybrid & Remote
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marksk1&label=Profile%20views&color=0e75b6&style=flat" alt="marksk1" /> </p>
 
