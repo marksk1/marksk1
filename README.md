@@ -1,13 +1,8 @@
 <h2>Hi, I'm Mark 👋</h2>
 
 <h3>I'm a Software and Data Engineering consultant from the United Kingdom.</h3>
-<h4>Building software, data systems, and AI agents to empower people and organisations</h4>
 
-I design, build, and maintain full-stack software, data platforms, and cloud infrastructure - including practical AI integration.
-
-I'm always open to new collaborations so if you're working on a project and think I could help - let's chat!
-
-<h3 align="left">A little about me</h3>
+<h4>Building and maintaining full-stack software, data platforms, and cloud infrastructure - including practical AI integration.</h4>
 
 - 🗺️ Location **Bristol Area, UK**
 
@@ -21,8 +16,6 @@ I'm always open to new collaborations so if you're working on a project and thin
 
 - ⚡ Fun fact **Nothing scares me more than code that compiles perfectly on the first go**
 
-- 💻 Working - Hybrid & Remote
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marksk1&label=Profile%20views&color=0e75b6&style=flat" alt="marksk1" /> </p>
 
 ---
@@ -30,6 +23,10 @@ I'm always open to new collaborations so if you're working on a project and thin
 <h3>Current consulting focus</h3>
 
 Full stack progressive web apps · data engineering · AI integration · DevOps / CI/CD · cloud, on-prem, and hybrid
+
+- 🤝 If you're working on a project and think I could help - let's chat!
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -59,5 +56,5 @@ Most of my repositories are private to protect client IP, however I've selected 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marksk1&show_icons=true&locale=en" alt="marksk1" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marksk1&" alt="marksk1" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marksk1&" alt="marksk1" /></p> -->
 
