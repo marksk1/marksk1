@@ -1,4 +1,4 @@
-<h2>Hi, I'm Mark 👋</h2>
+<h2>Hi, I'm Mark</h2>
 
 <h3>I'm a Software and Data Engineering consultant from the United Kingdom.</h3>
 
