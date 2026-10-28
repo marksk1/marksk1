@@ -2,7 +2,7 @@
 
 <h3>I'm a Software and Data Engineering consultant from the United Kingdom.</h3>
 
-<h4>Building and maintaining full-stack software, data platforms, and cloud infrastructure - including practical AI integration.</h4>
+Building and maintaining full-stack software, data platforms, and cloud infrastructure - including practical AI integration.
 
 - 🗺️ Located near Bristol, UK
 
