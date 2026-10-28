@@ -4,17 +4,17 @@
 
 <h4>Building and maintaining full-stack software, data platforms, and cloud infrastructure - including practical AI integration.</h4>
 
-- 🗺️ Location **Bristol Area, UK**
+- 🗺️ Located near Bristol, UK
 
-- 🔭 I’m currently working on **AI powered marketplace platforms**
+- 🔭 I’m currently working on AI powered marketplace platforms
 
-- 🌱 I’m currently learning **how to build smarter and safer AI agents**
+- 🌱 I’m currently learning how to build smarter and safer AI agents
 
-- 👯 I’m looking to collaborate on **software and data engineering projects - available remote or hybrid (Bristol or Manchester)**
+- 👯 I’m looking to collaborate on software and data engineering projects - available remote or hybrid (Bristol or Manchester)
 
-- 💬 Ask me about **React web applications, Spark/Pandas data pipelines & platforms, cost-efficient cloud, and AI agents / GenAI integration**
+- 💬 Ask me about React web applications, Spark/Pandas data pipelines & platforms, cost-efficient cloud, and AI agents / GenAI integration
 
-- ⚡ Fun fact **Nothing scares me more than code that compiles perfectly on the first go**
+- ⚡ Fun fact Nothing scares me more than code that compiles perfectly on the first go
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marksk1&label=Profile%20views&color=0e75b6&style=flat" alt="marksk1" /> </p>
 
